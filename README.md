@@ -59,10 +59,3 @@ README.md
 - For denoising, applies a circular low-pass mask to suppress high-frequency noise before inverse FFT reconstruction.
 
 
-
-
-
-
-
-## How to Run
-
